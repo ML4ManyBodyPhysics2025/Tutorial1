@@ -1,6 +1,7 @@
 # Tutorial1
 
 Learning the Ising Hamiltonian using linear regression
+
 Perimeter Scholars International 2024-2025
 
 Originally designed by Lauren Hayward
